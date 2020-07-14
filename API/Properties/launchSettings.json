@@ -20,7 +20,7 @@
     "API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://172.19.38.193:5000",
+      "applicationUrl": "http://172.18.116.193:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
